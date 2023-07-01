@@ -40,7 +40,7 @@ const tableStyle = {
   width: "100%",
   borderRadius: "10px",
   overflow: "hidden",
-  // boxShadow: "40px 90px 55px -20px rgba(155, 184, 243, 0.2)",
+  boxShadow: "40px 90px 55px -20px rgba(155, 184, 243, 0.2)",
 };
 
 const tableHeaderStyle = {
